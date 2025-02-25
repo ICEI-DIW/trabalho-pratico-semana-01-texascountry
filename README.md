@@ -3,11 +3,13 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Miguel Teixeira 
+Matricula: 889258
 
 ## Tela de inspeção com navegador
-
+![alt text](image-3.png)
 
 ## Tela de projeto no Replit
+![alt text](image-2.png)
+
 
